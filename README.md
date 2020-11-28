@@ -10,11 +10,12 @@ The aim of our system is to extract contextual information from the user reviews
 ### Working
 * In our system, we have used tripadvisor dataset with one feature named 'Review' having textual information. and second is target variable Rating. It ranges from 1 to 5.
 * To extract information from text, we have used some python libraries and NLP techniques. They are 
-      * Convert sentences into tokens i.e. words
-      * Convert all words to lower case
-      * Remove stopwords of english language
-      * ML algorithm : Multinominal Naive Bayes Algorithm
-      * Tkinter library to create GUI
+
+          * Convert sentences into tokens i.e. words
+          * Convert all words to lower case
+          * Remove stopwords of english language
+          * ML algorithm : Multinominal Naive Bayes Algorithm
+          * Tkinter library to create GUI
 
 ### Screenshot of GUI
 <img src="https://github.com/SheetalJade2019/ReviewRatingPrediction/blob/main/screenshot/RRP_GUI.png" align="center" width="600" height="300">
